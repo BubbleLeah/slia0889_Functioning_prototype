@@ -19,4 +19,5 @@ This work inspired me to use audio to create interactive effects. The content pr
 The sizeMultiplier variable is then used to control the size of each shape.And in the draw method of the DrawFunction class, the sizeMultiplier variable is passed to the configuration function config, thus affecting the drawing of each line.
 
 ![](/assets/coding3.jpg)
+
 These code snippets ensure that the shape's width and height change dynamically based on the sizeMultiplier, allowing the shape to change size as the frequency spectrum of the music changes.
